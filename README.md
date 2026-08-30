@@ -27,7 +27,7 @@ de uma aplicação se conectam.
 
 <div align="center">
 
-# 🚀 Construindo uma base sólida
+# ⚙️ Construindo uma base sólida
 
 <p>
   Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend.
