@@ -29,7 +29,7 @@ de uma aplicação se conectam.
 
 <div align="center">
 
- Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend. 
+  Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend. 
 
 ### 💻 Tecnologias e Ferramentas
 
