@@ -28,8 +28,10 @@ de uma aplicação se conectam.
 ## 🚀 Construindo uma base sólida
 
 <div align="center">
-
-  Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend. 
+  
+<p>
+   Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend. 
+</p>
 
 ### 💻 Tecnologias e Ferramentas
 
