@@ -27,24 +27,30 @@ de uma aplicação se conectam.
 
 ## 🚀 Construindo uma base sólida
 
-> Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend.
+<div align="center">
 
-<p align="left">
+ Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend. 
+
+### 💻 Tecnologias e Ferramentas
+
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,maven,git,github" />
 </p>
 
 ### 🔐 Segurança
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
 </p>
 
 ### 🧪 Testes
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=mockito&logoColor=white" />
 </p>
+
+</div>
 
 ## 🚧 Projeto em desenvolvimento
 
