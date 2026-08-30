@@ -25,12 +25,12 @@ de uma aplicação se conectam.
 - Git e GitHub
 - Fundamentos de Engenharia de Software
 
-## 🚀 Construindo uma base sólida
-
 <div align="center">
-  
+
+# 🚀 Construindo uma base sólida
+
 <p>
-   Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend. 
+  Tecnologias e ferramentas que estou estudando e aplicando na prática em projetos Backend.
 </p>
 
 ### 💻 Tecnologias e Ferramentas
@@ -49,7 +49,7 @@ de uma aplicação se conectam.
 
 <p>
   <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=mockito&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge" />
 </p>
 
 </div>
