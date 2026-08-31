@@ -64,6 +64,8 @@ criada como parte do meu processo de aprendizado.
 O projeto está em desenvolvimento e é meu principal laboratório
 para praticar programação e conceitos de backend.
 
+🔗 [Ver repositório](https://github.com/IsantosDev7/ProjetoJavaJunior)
+
 ## 🎯 Objetivo atual
 
 Estou buscando uma oportunidade de estágio em desenvolvimento
