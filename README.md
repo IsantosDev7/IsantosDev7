@@ -87,3 +87,5 @@ corporativos.
 ---
 
 📚 Em aprendizado constante.
+
+![Snake animation](https://raw.githubusercontent.com/IsantosDev7/IsantosDev7/output/github-contribution-grid-snake-dark.svg)
